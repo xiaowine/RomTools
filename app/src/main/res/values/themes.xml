@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RomTools" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--        <item name="android:windowIsTranslucent">true</item>-->
+    </style>
+    <style name="Base.Theme.RomTools.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Base.Theme.RomTools.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Base.Theme.RomTools.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+</resources>

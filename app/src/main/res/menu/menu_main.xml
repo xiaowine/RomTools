@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="cn.xiaowine.romtools.MainActivity">
+    <item android:id="@+id/action_settings"
+          android:title="@string/res_download"
+          app:showAsAction="never"/>
+    <item android:id="@+id/twrp"
+          android:title="@string/twrp"
+          app:showAsAction="never"/>
+    <item android:id="@+id/orange_fox"
+          android:title="@string/orange_fox"
+          app:showAsAction="never">
+    </item>
+</menu>

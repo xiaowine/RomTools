@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RomTools</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_fragment_label">@string/app_name</string>
+    <string name="root">Root专区</string>
+    <string name="flash_root">刷写Boot</string>
+    <string name="backup_root">备份Boot</string>
+    <string name="root_ing">ROOT 中</string>
+    <string name="root_done">Root成功，重启生效</string>
+    <string name="root_error">Root失败</string>
+    <string name="recovery">Recovery专区</string>
+    <string name="boot">Boot专区</string>
+    <string name="logo">Logo专区</string>
+    <string name="flash_logo">刷写Logo</string>
+    <string name="backup_logo">备份Logo</string>
+    <string name="reboot">重启</string>
+    <string name="reboot_tip">是否重启</string>
+    <string name="res_download">资源下载</string>
+    <string name="orange_fox">橙狐Recovery下载</string>
+    <string name="twrp">Twrp下载</string>
+    <string name="unknown">未知文件</string>
+    <string name="todo">没写完，点个毛</string>
+    <string name="backup_ing">备份 %s 中</string>
+    <string name="backup_done">备份成功\n用时：%s\n速度：%s\n已备份到/storage/emulated/0/Documents/%s.img</string>
+    <string name="backup_error">备份失败\n %s</string>
+    <string name="flash_ask">是否刷入</string>
+    <string name="flash_tips">刷入分区：%s\n等待刷人文件：%s</string>
+    <string name="flash_ok">是否刷入</string>
+    <string name="flash_no">取消刷入</string>
+    <string name="flash_ing">刷入 %s 中</string>
+    <string name="flash_done">刷入成功\n用时：%s\n速度：%s</string>
+    <string name="flash_error">备份失败\n %s</string>
+    <string name="no_exit">请勿随意退出</string>
+    <string name="restart_effect">重启生效</string>
+</resources>
